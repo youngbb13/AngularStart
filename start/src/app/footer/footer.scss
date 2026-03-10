@@ -1,0 +1,18 @@
+.footer {
+    width: 100%;
+    min-height: 20vh;
+    background-color: aqua;
+    display: flex;
+}
+
+.first-block {
+    display: flex;
+    flex: 1;
+    background-color: red;
+}
+
+.second-block {
+    display: flex;
+    flex: 1;
+    background-color: yellow;
+}
